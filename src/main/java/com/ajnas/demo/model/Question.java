@@ -1,4 +1,4 @@
-package com.ajnas.demo;
+package com.ajnas.demo.model;
 
 
 import jakarta.persistence.Column;
@@ -25,5 +25,5 @@ public class Question {
     private String difficultylevel;
     private String rightanswer;
     private String category;
-
+    
 }
